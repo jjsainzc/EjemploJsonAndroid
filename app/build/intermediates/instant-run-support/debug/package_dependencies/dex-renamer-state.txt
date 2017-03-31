@@ -1,0 +1,7 @@
+#Fri Mar 31 11:14:41 COT 2017
+base.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.3.1_4e01ecc3c799fdde95651960f9bb6e8843c0f0b4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_bfbe8054a1e48b41af7b3c730f3fb6ea6cfd0b55\\classes.dex
+base.1=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_bfbe8054a1e48b41af7b3c730f3fb6ea6cfd0b55
+file.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.3.1_4e01ecc3c799fdde95651960f9bb6e8843c0f0b4\\classes.dex

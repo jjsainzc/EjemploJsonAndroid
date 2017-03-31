@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alienware\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_bfbe8054a1e48b41af7b3c730f3fb6ea6cfd0b55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b66164476fc8566b9a1ec1d0c233cd23b56871da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alienware\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_4e01ecc3c799fdde95651960f9bb6e8843c0f0b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5792874b94fb50f7cdeabc362ceabf279cbc0e">
+        <dex dex="C:\Users\Alienware\AndroidStudioProjects\EjemploJsonAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_83b5c90ada47e84da57ca4e3f70533f905c71e95\classes.dex" />
+    </item>
+
+</items>

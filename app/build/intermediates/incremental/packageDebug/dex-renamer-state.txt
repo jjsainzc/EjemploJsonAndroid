@@ -1,0 +1,7 @@
+#Fri Mar 31 11:14:42 COT 2017
+base.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83b5c90ada47e84da57ca4e3f70533f905c71e95
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b66164476fc8566b9a1ec1d0c233cd23b56871da\\classes.dex
+base.1=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b66164476fc8566b9a1ec1d0c233cd23b56871da
+file.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83b5c90ada47e84da57ca4e3f70533f905c71e95\\classes.dex

@@ -1,0 +1,4 @@
+#Fri Mar 31 11:14:42 COT 2017
+base.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

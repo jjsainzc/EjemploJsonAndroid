@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Mar 31 11:14:43 COT 2017
+2.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_ejemplo_json.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\ejemplo_json.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b66164476fc8566b9a1ec1d0c233cd23b56871da\\classes.dex
+7.set=DEX
+count=8
+0.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83b5c90ada47e84da57ca4e3f70533f905c71e95\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b66164476fc8566b9a1ec1d0c233cd23b56871da
+2.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\ejemplo_json.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83b5c90ada47e84da57ca4e3f70533f905c71e95
+4.file=C\:\\Users\\Alienware\\AndroidStudioProjects\\EjemploJsonAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
